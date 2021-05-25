@@ -1,5 +1,5 @@
 """
-Program to print the following series"
+Program to print the following series
 
 10 20 30 40 50  
 20 30 40 50 60  
