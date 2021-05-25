@@ -1,3 +1,6 @@
+
+# PROGRAM TO PRINT NEPAL'S FLAG USING TIME MODULE
+
 import time
 
 for i in range(10):
