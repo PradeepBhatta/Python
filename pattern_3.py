@@ -1,5 +1,5 @@
 """
-Program to print the followng series
+Program to print the followng series 
 
 1
 12
